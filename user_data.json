@@ -1,0 +1,34 @@
+{
+    "__codes__": {
+        "DAY1": {
+            "reward": 10,
+            "max_uses": 10,
+            "expires_at": "2026-07-25T02:39:06.467780+00:00",
+            "used_by": []
+        }
+    },
+    "1343388610795143168": {
+        "balance": 100,
+        "stats": {
+            "wins": 0,
+            "losses": 0,
+            "total_wagered": 0,
+            "total_lost": 0
+        },
+        "last_daily": null,
+        "last_monthly": null,
+        "wager_at_last_monthly": 0,
+        "rakeback_available": 0.0,
+        "clan": null,
+        "bonus_received": 0,
+        "tips_sent": 0,
+        "tips_received": 0,
+        "total_withdrawn": 0,
+        "wager_requirement": 0,
+        "wager_since_promo": 0,
+        "total_deposited": 0.0,
+        "daily_invites": 0,
+        "daily_invites_date": null,
+        "total_invites": 0
+    }
+}
